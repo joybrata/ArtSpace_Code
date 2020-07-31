@@ -1,0 +1,14 @@
+<div class="art-view-container">
+  <div *ngFor="let artist of artist_data">
+    <div *ngFor="let art of artist.art">
+      <div *ngIf="art.art_name == art_name">
+        <div class="art-view-container-header">
+            <span (click)="onSelectArtist(artist)">{{artist.artist_name}}</span>/{{art.art_name}}
+        </div>
+        <img [src]="art.pic_url" [alt]="art.art_name">
+        <div class="art-view-container-title">About</div>
+        <div class="art-view-container-about">{{art.about_pic}}</div>
+      </div>
+    </div>
+  </div>
+</div>

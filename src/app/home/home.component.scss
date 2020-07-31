@@ -1,0 +1,37 @@
+.thumbnail-container {
+  margin-top: 50px;
+  margin-left: 50px;
+
+  ul {
+    list-style: none;
+  }
+
+  .thumbnail {
+    float: left;
+    height: 385px;
+    width: 240px;
+    overflow: hidden;
+    margin-right: 70px;
+    cursor: pointer;
+    transition:0.2s ease-out all;
+
+    img {
+      margin-left: 50%;
+      transform: translateX(-50%);
+
+    }
+
+    li {
+      font-family: Century-Gothic;
+      text-align: center;
+      font-size: 20px;
+      font-weight: 0;
+    }
+  }
+
+  .thumbnail:hover {
+    transform:scale(1.05);
+    position:relative;
+    z-index:100;
+  }
+}

@@ -1,0 +1,35 @@
+.art-view-container {
+  margin-top: 80px;
+  margin-left: 66px;
+  margin-right: 25px;
+  color: #565656;
+  font-family: calibri;
+
+  .art-view-container-header{
+    font-size: 35px;
+    font-weight: 600;
+    span {
+      cursor: pointer;
+    }
+  }
+  img {
+    margin-top: 50px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .art-view-container-title {
+    margin-top: 2.4em;
+    padding-left: 5px;
+    font-size: 28px;
+    font-weight: 500;
+    border-left: 5px solid red;
+  }
+  .art-view-container-about{
+    margin-top: 10px;
+    padding-left: 5px;
+    font-size: 26px;
+    font-weight: 400;
+  }
+}

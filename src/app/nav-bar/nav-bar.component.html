@@ -1,0 +1,15 @@
+<div class="nav-bar-header">
+  <br>
+  <a [routerLink]="['/']" routerLinkActive="router-link-active" (click)="selectedFunction(1)" >Art Space</a>
+  <br>
+</div>
+<div class="nav-bar-menu">
+  <br><br><br><br><br><br><br><br><br><br>
+  <ul>
+    <li [class.selected]="homeSelected"><a [routerLink]="['/']" routerLinkActive="router-link-active" (click)="selectedFunction(1)" >Home</a></li>
+    <br>
+    <li [class.selected]="artistsSelected"><a [routerLink]="['/artists']" routerLinkActive="router-link-active" (click)="selectedFunction(2)" >Artists</a></li>
+    <br>
+    <li [class.selected]="aboutSelected"><a [routerLink]="['/about']" routerLinkActive="router-link-active" (click)="selectedFunction(3)" >About</a></li>
+  </ul>
+</div>

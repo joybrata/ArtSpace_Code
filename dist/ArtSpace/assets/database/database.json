@@ -1,0 +1,113 @@
+[
+  {
+		"artist_name": "Albrecht Durer",
+		"bio": "Durer was an important Northern Renaissance man from Germany. He was prominent in painting, printmaking, mathematics, engraving, and theory.",
+		"art": [
+			{
+				"art_name": "Praying Hands",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/09/Praying_Hands_-_Albrecht_Durer.jpg",
+				"about_pic": "Praying Hands by Albrecht Dürer is a famous ink and pencil drawing created in the early 14th century. The drawing is on blue colored paper that the artist made himself. Praying Hands is part of a series of sketches that Dürer drew for an altarpiece. The drawing shows the hands of a man praying with his body out of view on the right. The sleeves of the man are folded and noticeable in the painting. The paper was made by the artist himself and portrays blue and green tones. Praying Hands is a sketch."
+			},
+			{
+				"art_name": "Self-Portrait of Albrecht Dürer",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/09/Durer_self-portrait.jpg",
+				"about_pic": "Albrecht Dürer painted many self-portraits during his lifetime. The most famous and popular one was his third, painted in 1500 A.D. Though he would paint others and include himself in many of his works in various ways, his third self-portrait remains his most memorable one."
+			},
+			{
+				"art_name": "Knight, Death and the Devil",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/09/Knight-Death-and-the-Devil-Durer.jpg",
+				"about_pic": "Knight, Death and the Devil was completed in 1513 A.D., by Albrecht Dürer. The engraving was created during the artist’s Nuremberg period, when he served the Emperor Maximilian and lived in Nuremberg, devoting himself to engraving work. Unlike many works of the time, it was not created as a commission."
+			},
+			{
+				"art_name": "Melencolia I ",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/09/Melencolia_I_Durer.jpg",
+				"about_pic": "Melencolia I was completed in 1514 A.D. by Albrecht Dürer. Of all the works he created, Melencolia I is a controversial allegorical work. Though it was created during Albrecht Dürer’s Nuremberg period when he served the emperor Maximilian, Melencolia I was not commissioned."
+			},
+			{
+				"art_name": "Adoration of the Trinity",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/09/Durer_Adoration_of_the_Trinity.jpg",
+				"about_pic": "Adoration of the Trinity by Albrecht Dürer is a work of religious iconography painted between 1509 and 1511 A.D. It is an oil on wood panel painting meant to serve as an altarpiece painting in a chapel. "
+      }
+		]
+  },
+
+	{
+		"artist_name": "Leonardo da Vinci",
+		"bio": "Da Vinci was someone who was skilled and knowledgeable in many, many subjects, including science, mathematics, music, and most importantly, art. He was the epitome of a Renaissance man if there never was one.",
+		"art": [
+			{
+				"art_name": "The Last Supper",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/03/DaVinci_Last-Supper.jpg",
+				"about_pic": "The Last Supper is the final meal Christ had with his disciples before he was arrested which ultimately crucified. The scene we are shown is when Christ tells his followers that he is to be betrayed and that he will be leaving them very soon. In the groups of three, we see the reactions from the apostles to the news. From the far left, we have the first group who all look surprised. No doubt, all would be thinking that they would never betray the Messiah. The next group, it is likely that Judas is the one holding what appears to be a bag (perhaps of silver?). Behind him is likely Peter, Jesus’ number one disciple who appears angry at the news. And the other person is likely one of the younger apostles, as he appears to swoon. Many have suggested that this is Mary Magdalene, perhaps inspired by the famous Da Vinci Code book. To the right of Christ, the next group of apostles appears to perhaps be questioning Christ as to the suggestion of betrayal, while the group on the far right is likely discussing loudly regarding the news."
+			},
+			{
+				"art_name": "Mona Lisa",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/03/Mona_Lisa_by_Leonardo_da_Vinci.jpg",
+				"about_pic": "The Mona Lisa is quite possibly the most well-known piece of painted artwork in the entire world. It was painted by the Leonardo Da Vinci, the famous Italian artist, between 1504 and 1519, and is a half body commission for a woman named Lisa Gherardini. Her husband, Francesco Del Giocondo requested the work by Da Vinci just after the turn of the century. It is perhaps the most studied piece of artwork ever known. The subject’s facial expression has brought about a source of debate for centuries, as her face remains largely enigmatic in the portrait. Originally commissioned in Italy, it is now at home in the French Republic, and hangs on display in the Louvre in Paris."
+      },
+      {
+				"art_name": "The Baptism of Christ",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2011/09/The-Baptism-of-Christ_Andrea-del-Verrocchio.jpg",
+				"about_pic": "The Baptism of Christ is a famous painting made by da Vinci’s master, Andrea del Verrochio at circa 1472 in his studio in Italy. The painting was completed by Verrochio in collaboration with his apprentice, da Vinci who painted and finished the details of some parts of the painting, particularly the angel. The painting was an altarpiece commissioned by the monks of the San Salvi Church near Florence."
+      },
+      {
+				"art_name": "Ginevra de’ Benci",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2011/09/Leonardo_da_Vinci_Ginevra_de_Benci_1474-78.png",
+				"about_pic": "Dated c. 1474, the Leonardo da Vinci painting Ginevra de’ Benci was painted at a time when da Vinci was still an apprentice of Verrochio. The medium used was oil on 42.7 x 37 cm wood. Experts has debated for a long time as to whether it was Leonardo who painted the work, but the genius art can only be done by no other than da Vinci during the time around 1470 – 1480. "
+			}
+		]
+  },
+  {
+		"artist_name": "Sandro Botticelli",
+		"bio": "Botticelli was an Italian painter of the Early Renaissance. He hailed from Florence, Italy.",
+		"art": [
+			{
+				"art_name": "Primavera",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/07/Botticelli-primavera.jpg",
+				"about_pic": "The Primavera was painted by Italian artist Sandro Botticelli in c. 1482. This egg tempera wood panel painting is depicted as a famous painting of the western world. It is also a very publicized and debated work of art in the world. Most commentators concur that the painting which depicts figures in a garden is symbolic to the lush spring growth. There have been other meanings which were examined. One such explanation that was entertained is the idea that the piece of art portrays the idealistic love of the Neoplatonicism."
+			},
+			{
+				"art_name": "Venus and Mars",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/07/Venus_and_Mars.jpg",
+				"about_pic": "Completed in 1483, Botticelli’s Venus and Mars is one of the more puzzling paintings that tackle a particular subject which was quite popular among Renaissance painters. In Botticelli’s painting, a beautiful and youthful Mars lies asleep, clearly spent."
+			},
+			{
+				"art_name": "Adoration of the Magi",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/07/Botticelli_adoration-of-the-magi.jpg",
+				"about_pic": "The Adoration of the Magi is Sandro Botticelli’s depiction of a famous scene, where the three Magi, or kings, bring gifts of gold, frankincense, and myrrh to lay before a baby Jesus. This was a popular theme among Renaissance painters, and Botticelli’s version dates back to around 1475."
+			},
+			{
+				"art_name": "Cestello Annunciation",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/08/The-Cestello-Annunciation-by-Botticelli.jpg",
+				"about_pic": "Sandro Botticelli was commissioned to produce the The Cestello Annunciation, in 1489, for the Cestello convent in Florence. The painting is thought to depict the moments after Archangel Gabriel’s appearance to Mary, as told in Luke’s gospel, when he informs her of the Holy Ghost’s impending visit."
+			},
+			{
+				"art_name": "The Mystical Nativity",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/07/The_Mystical_Nativity.jpg",
+				"about_pic": "A master of Italian Renaissance art, Alessandro di Mariano di Vanni Fillipepi, better known as Sandro Botticelli created the The Mystical Nativity in 1500-1501. Botticelli apprenticed as a goldsmith at the age of fourteen, for his brother Antonio initially. In 1462, he became an apprentice to Fra Filippo Lippi, an Italian painter, where he learned painting techniques in a more intimate and detailed manner. By 1470, Sandro had his own art workshop. His works are mostly characterized by clear contours of figures, and few strong contrasts of light and shadow. The Mystical Nativity is his only work in which he signed."
+      },
+      {
+				"art_name": "The Birth of Venus",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/04/Birth-of-Venus-by-Sandro_Botticelli.jpg",
+        "about_pic": "More than 500 years after its creation, The Birth of Venus by Sandro Botticelli is one of the most iconic paintings ever produced, and remains among the most renowned and priceless masterpieces in the world. Painted in 1486, The Birth of Venus has been the subject of endless intellectual speculation and interpretations of meaning. The painting depicts a voluptuous nude female standing gracefully upon a large seashell which appears to emerge onto shore from the ocean. To her left is a male angel floating in the air and clutching a woman in a tight embrace. To the right of the Venus is another woman in flowing garments, appearing to hail the arrival of the “goddess.”"
+
+			}
+		]
+  },
+	{
+		"artist_name": "Michelangelo Buonarroti",
+		"bio": "Also known as Michelangelo, he was an Italian Renaissance artist. He is often considered a contender for the title of the archetypal Renaissance man, alongside Leonardo da Vinci.",
+		"art": [
+			{
+				"art_name": "The Torment of Saint Anthony ",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/08/The-Torment-of-Saint-Anthony-by-Michelangelo.jpg",
+				"about_pic": "The Torment of Saint Anthony by Michelangelo is the earliest painting that was done by this artist. It has very intricate details throughout the piece and was created somewhere between 1487 and 1488. It currently hangs in the Kimbell Art Museum in Fort Worth, Texas where it is part of a permanent collection. It passed hands from American art dealers to the Metropolitan Museum of Art in New York before it arrived to this destination after being sold. It was sold for over $6 million dollars, but the exact amount is not known."
+			},
+			{
+				"art_name": "Doni Tondo",
+				"pic_url": "http://totallyhistory.com/wp-content/uploads/2012/08/Michelangelo_Buonarroti-Tondo_Doni.jpg",
+				"about_pic": "The Doni Tondo is a famous painting by Michelangelo, also known as the Doni Madonna, or the Holy Family. It is a panel painting in a round frame and holds the distinction of being the only such painting that is indisputably Michelangelo’s work. The painting was done as a commissioned work for Agnolo Doni to mark the occasion of his marriage to Maddalena Strozzi."
+			}
+		]
+  }
+]

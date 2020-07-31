@@ -1,0 +1,11 @@
+<div class="artists-container">
+  <p class="heading">Artists</p>
+  <ul>
+    <li *ngFor='let key of 26 | alphabets'>
+      <a id={{key}} [routerLink]="" (click)="selectKey(key)" [class.selected]="key == ser">{{key}}</a>
+    </li>
+  </ul>
+  <div class="">
+    <app-artist-list-container [serKey]= "ser"></app-artist-list-container>
+  </div>
+</div>

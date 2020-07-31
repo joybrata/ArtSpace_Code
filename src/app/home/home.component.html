@@ -1,0 +1,8 @@
+<div class="thumbnail-container">
+  <ul *ngFor="let artist of artist_data" style="padding-left: 0%">
+    <div *ngFor="let art of artist.art" class="thumbnail" (click)="onSelectArt(art)">
+        <img [src]="art.pic_url" [alt]="art.art_name"  height=300px>
+        <li>{{art.art_name}}</li>
+    </div>
+  </ul>
+</div>

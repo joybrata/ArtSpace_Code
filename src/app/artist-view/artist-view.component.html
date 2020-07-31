@@ -1,0 +1,20 @@
+<div class="artist-view-container">
+  <ul *ngFor="let artist of artist_data">
+    <li *ngIf="artist.artist_name == artist_name" class="artist-view-container-heading">{{artist.artist_name}}</li>
+
+    <div class="artist-view-container-title" *ngIf="artist.artist_name == artist_name">About</div>
+    <li *ngIf="artist.artist_name == artist_name" class="artist-view-container-bio">{{artist.bio}}</li>
+
+    <div class="artist-view-container-title" *ngIf="artist.artist_name == artist_name">Art works</div>
+
+    <div class="thumbnail-container">
+      <ul *ngFor="let art of artist.art" style="padding-left: 0%">
+        <div *ngIf="artist.artist_name == artist_name" class="thumbnail" (click)="onSelectArt(art)">
+            <img *ngIf="artist.artist_name == artist_name" [src]="art.pic_url" [alt]="art.art_name"  height=300px>
+            <li *ngIf="artist.artist_name == artist_name">{{art.art_name}}</li>
+        </div>
+      </ul>
+    </div>
+
+  </ul>
+</div>

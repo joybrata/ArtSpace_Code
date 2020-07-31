@@ -1,0 +1,13 @@
+.list-view {
+  margin-top: 50px;
+  ul {
+    list-style: none;
+    li{
+      padding-left: 14px;
+      padding-right: 14px;
+      font-size: 22px;
+      font-weight: 100;
+      cursor: pointer;
+    }
+  }
+}

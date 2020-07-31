@@ -1,0 +1,5 @@
+<div class="list-view">
+  <ul *ngFor="let artist of filterItemsOfType(serKey)">
+    <li (click)="onSelectArtist(artist)">{{artist.artist_name}}</li>
+  </ul>
+</div>
